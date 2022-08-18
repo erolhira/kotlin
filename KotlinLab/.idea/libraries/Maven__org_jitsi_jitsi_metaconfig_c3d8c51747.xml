@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jitsi:jitsi-metaconfig:c3d8c51747">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jitsi/jitsi-metaconfig/c3d8c51747/jitsi-metaconfig-c3d8c51747.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jitsi/jitsi-metaconfig/c3d8c51747/jitsi-metaconfig-c3d8c51747-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jitsi/jitsi-metaconfig/c3d8c51747/jitsi-metaconfig-c3d8c51747-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
