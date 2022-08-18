@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/erol/dev/ws2/ws_kotlin/.metadata/.plugins/org.eclipse.jdt.core
-2987267330.index
